@@ -2,3 +2,4 @@ pandas
 pywin32
 tkcalendar
 PyQt5
+psutil
